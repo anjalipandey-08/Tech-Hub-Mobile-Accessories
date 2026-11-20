@@ -32,6 +32,13 @@ Explore the published website:
 | Main Section | Details 1 | Details 2 |
 |:---:|:---:|:---:|
 | ![About Us](screenshots/about-us-main.png) | ![About Us Details](screenshots/about-us-details.png) | ![About Us Details 1](screenshots/about-us-details1.png) |
+### Categories Page
+
+The categories section organises mobile accessories into different product categories, making it easier for visitors to browse the website.
+
+| Category Banner | Products – Section 1 | Products – Section 2 |
+|:---:|:---:|:---:|
+| ![Categories Banner](screenshots/categories-banner.png) | ![Categories Products 1](screenshots/categories-products-1.png) | ![Categories Products 2](screenshots/categories-products-2.png) |
 ## Key Sections and Features
 
 - **Home Page:** Brand introduction, promotional banner and featured products.
