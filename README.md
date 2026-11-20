@@ -9,7 +9,11 @@
 Tech Hub is a mobile accessories website developed as a first-year academic project using Google Sites. The website presents a range of technology products, including power banks, wireless earbuds, chargers, mobile cases, smartwatches and other accessories.
 
 The project focuses on organising product information, presenting product visuals and creating a simple browsing experience for visitors.
+## Live Website
 
+Explore the published website:
+
+[Visit Tech Hub – Mobile Accessories](https://sites.google.com/view/6023mobileaccessories/home)
 ## Website Preview
 
 | Home Page – Hero Section | New Arrivals |
