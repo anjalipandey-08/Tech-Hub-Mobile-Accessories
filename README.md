@@ -16,9 +16,17 @@ Explore the published website:
 [Visit Tech Hub – Mobile Accessories](https://sites.google.com/view/6023mobileaccessories/home)
 ## Website Preview
 
-| Home Page – Hero Section | New Arrivals |
+### Home Page
+
+| Hero Section | New Arrivals |
 |:---:|:---:|
-| ![Home Page Hero](home-page-hero.png) | ![New Arrivals](home-new-arrivals.png) |
+| ![Home Hero](screenshots/home-page-hero.png) | ![New Arrivals](screenshots/home-new-arrivals.png) |
+
+### Product Page
+
+| Main Product Section | Product Details |
+|:---:|:---:|
+| ![Product Main](screenshots/product-page-main.png) | ![Product Details](screenshots/product-page-details.png) |
 
 ## Key Sections and Features
 
