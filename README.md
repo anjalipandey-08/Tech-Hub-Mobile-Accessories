@@ -39,6 +39,13 @@ The categories section organises mobile accessories into different product categ
 | Category Banner | Products – Section 1 | Products – Section 2 |
 |:---:|:---:|:---:|
 | ![Categories Banner](screenshots/categories-banner.png) | ![Categories Products 1](screenshots/categories-products-1.png) | ![Categories Products 2](screenshots/categories-products-2.png) |
+### Contact Us Page
+
+The Contact Us page provides visitors with contact information and a form to make enquiries.
+
+| Main Banner | Contact Details | Contact Form |
+|:---:|:---:|:---:|
+| ![Contact Banner](screenshots/contact-banner.png) | ![Contact Details](screenshots/contact-details.png) | ![Contact Form](screenshots/contact-form.png) |
 ## Key Sections and Features
 
 - **Home Page:** Brand introduction, promotional banner and featured products.
