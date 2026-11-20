@@ -27,7 +27,11 @@ Explore the published website:
 | Main Product Section | Product Details |
 |:---:|:---:|
 | ![Product Main](screenshots/product-page-main.png) | ![Product Details](screenshots/product-page-details.png) |
+### About Us Page
 
+| Main Section | Details 1 | Details 2 |
+|:---:|:---:|:---:|
+| ![About Us](screenshots/about-us-main.png) | ![About Us Details](screenshots/about-us-details.png) | ![About Us Details 1](screenshots/about-us-details1.png) |
 ## Key Sections and Features
 
 - **Home Page:** Brand introduction, promotional banner and featured products.
